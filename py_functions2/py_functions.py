@@ -10,4 +10,4 @@
 # print(dir("hello"))
 
 # help example 
-print(help("hello".upper))
+#print(help("hello".upper))
